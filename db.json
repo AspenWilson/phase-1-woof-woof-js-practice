@@ -22,7 +22,8 @@
       "id": 4,
       "name": "Buttercup",
       "isGoodDog": false,
-      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_4.jpg"
+      "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_4.jpg",
+      "isTrusted": true
     },
     {
       "id": 5,
@@ -33,7 +34,7 @@
     {
       "id": 6,
       "name": "Snooper Pooper",
-      "isGoodDog": false,
+      "isGoodDog": true,
       "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_6.jpg"
     },
     {
